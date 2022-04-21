@@ -1,4 +1,4 @@
-# Apuntesyokreo
+# Apuntes!
 hola estos son mis apuntes
 
 Lugar para usar imágenes https://picsum.photos/images
